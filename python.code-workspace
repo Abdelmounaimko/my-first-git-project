@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "../../python"
+		},
+		{
+			"path": "../../learn c"
+		},
+		{
+			"path": "../../HTML-SCC"
+		},
+		{
+			"path": "../../YoutubeProject"
+		},
+		{
+			"path": "../../MySiteWeb"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MySiteWeb",
+		"files.associations": {
+			"stdio.h": "c",
+			"stdlib.h": "c",
+			"iostream": "cpp",
+			"cstdio": "cpp"
+		}
+	}
+}
